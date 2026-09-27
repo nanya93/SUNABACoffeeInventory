@@ -1,0 +1,10 @@
+{
+  "description": "Manage inventory efficiently with a user-friendly web app that tracks stock levels, facilitates stock entries and exits, and maintains employee records for SUNABA Coffee.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
