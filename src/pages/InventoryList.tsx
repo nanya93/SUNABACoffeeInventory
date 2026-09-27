@@ -27,7 +27,7 @@ export default function InventoryList() {
       <div className="page-header">
         <div>
           <h1 className="page-title">在庫状況</h1>
-          <p className="page-desc">現在の在庫状況を確認できます。</p>
+          <p className="page-desc">商品の現在庫と適正在庫を確認できます。</p>
         </div>
         <button className="btn-primary" onClick={() => navigateTo('stock-entry')}>
           ＋ 入出庫入力へ
